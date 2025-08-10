@@ -1,4 +1,4 @@
-# PLP-Python-Week-1-Assignment
+# PLP-Python-Week-2-Assignment
 # Week Two Assignment
 
 ## Description
